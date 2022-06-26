@@ -11,7 +11,7 @@ The project goal that would be most ideal and have the highest percentage succes
 
 ## Outcomes by Launch Date for theater
 Projects would seem most successful in the spring time and especially around may. Projects have their highest rate of failure in december as the number of successful projects mirrors the number of failed projects. One would likely want to have their kickstarter projects span over late spring and early summer, when life is most alive and people are at their happiest. One would also want to avoid late fall and early winter as this is the time seasonal depression starts to sit on peoples minds. 
-![alt text](images/Theater_Outcomes_vs_Launch Date.png)
+![alt text](images/Theater_Outcomes_vs_Launch%20Date.png)
 
 
 ## Summary and Limitations
